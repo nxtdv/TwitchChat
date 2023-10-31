@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cZoetxkfzqmXuM5wA5/uGc4FtUpadVThmK5T3uB35cjvdImtrVq0YCXOD2H5bDESOSPGD6iAZ0Uu4H4pc8hUQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krxmer\\Desktop\\KingdomMod-TKang-\\TwitchChat\\TwitchChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krxmer\\.nuget\\packages\\bepinex.plugininfoprops\\2.1.0\\bepinex.plugininfoprops.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

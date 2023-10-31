@@ -1,0 +1,13 @@
+C:\Users\krxmer\Desktop\KingdomMod-TKang-\TwitchChat\bin\Debug\net6.0\KingdomMod.TwitchChat.deps.json
+C:\Users\krxmer\Desktop\KingdomMod-TKang-\TwitchChat\bin\Debug\net6.0\KingdomMod.TwitchChat.dll
+C:\Users\krxmer\Desktop\KingdomMod-TKang-\TwitchChat\bin\Debug\net6.0\KingdomMod.TwitchChat.pdb
+C:\Users\krxmer\Desktop\KingdomMod-TKang-\TwitchChat\obj\Debug\net6.0\TwitchChat.csproj.AssemblyReference.cache
+C:\Users\krxmer\Desktop\KingdomMod-TKang-\TwitchChat\obj\Debug\net6.0\MyPluginInfo.cs
+C:\Users\krxmer\Desktop\KingdomMod-TKang-\TwitchChat\obj\Debug\net6.0\TwitchChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krxmer\Desktop\KingdomMod-TKang-\TwitchChat\obj\Debug\net6.0\TwitchChat.AssemblyInfoInputs.cache
+C:\Users\krxmer\Desktop\KingdomMod-TKang-\TwitchChat\obj\Debug\net6.0\TwitchChat.AssemblyInfo.cs
+C:\Users\krxmer\Desktop\KingdomMod-TKang-\TwitchChat\obj\Debug\net6.0\TwitchChat.csproj.CoreCompileInputs.cache
+C:\Users\krxmer\Desktop\KingdomMod-TKang-\TwitchChat\obj\Debug\net6.0\KingdomMod.TwitchChat.dll
+C:\Users\krxmer\Desktop\KingdomMod-TKang-\TwitchChat\obj\Debug\net6.0\refint\KingdomMod.TwitchChat.dll
+C:\Users\krxmer\Desktop\KingdomMod-TKang-\TwitchChat\obj\Debug\net6.0\KingdomMod.TwitchChat.pdb
+C:\Users\krxmer\Desktop\KingdomMod-TKang-\TwitchChat\obj\Debug\net6.0\ref\KingdomMod.TwitchChat.dll
