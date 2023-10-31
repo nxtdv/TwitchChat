@@ -43,3 +43,5 @@ Once the mod is installed, start a game and instruct your viewers to use the com
 ## Credits
 
 Special thanks to [abevol](https://github.com/abevol) for their mod. Feel free to check out their project at [KingdomMod](https://github.com/abevol/KingdomMod) and follow them for future updates.
+
+I'd also like to thank streamer [Aiekillu](https://www.twitch.tv/aiekillu), who introduced me to the game and said it would be great to have a Twitch integration to this game, as there wasn't one.
