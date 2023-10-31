@@ -60,7 +60,6 @@ namespace KingdomMod
             {
                 if (channelName != "")
                 {
-                    log.LogError(channelName);
                     ConnectToTwitch();
                 }
 
@@ -271,7 +270,7 @@ namespace KingdomMod
                     splitPoint = message.IndexOf(":", 1);
                     string chatMessage = message.Substring(splitPoint + 1);
 
-                    if (!userToFarmerMapping.ContainsKey(chatName) && joinQueue.Count < 150)  // chatMessage.Equals("!join", StringComparison.OrdinalIgnoreCase) && 
+                    if (chatMessage.Equals("!join", StringComparison.OrdinalIgnoreCase) && !userToFarmerMapping.ContainsKey(chatName) && joinQueue.Count < 150)
                     {
                         joinQueue.Enqueue(chatName);
                     }
@@ -311,8 +310,6 @@ namespace KingdomMod
             writer.WriteLine("USER " + username + " 8 * :" + username);
             writer.WriteLine("JOIN #" + channelName);
             writer.Flush();
-
-            Debug.Log("Connected to Twitch IRC");
 
             Thread chatThread = new Thread(ReadChatContinuous);
             chatThread.Start();
